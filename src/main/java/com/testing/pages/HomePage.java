@@ -14,7 +14,7 @@ public class HomePage {
 		this.driver=ldriver;
 	}
 	
-	
+	// web elements
 	@FindBy(id="user_login")
 	WebElement username;
 	
